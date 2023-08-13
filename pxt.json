@@ -1,5 +1,5 @@
 {
-    "name": "waveshare-18inch-lcd-display",
+    "name": "microbit-waveshare-18inch-lcd-display",
     "description": "",
     "dependencies": {
         "core": "*",

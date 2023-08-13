@@ -29,7 +29,6 @@ LCD1IN8.Get_Color(LCD_COLOR.BLACK)
 ]
 xpos = 80
 ypos = 64
-basic.showNumber(0)
 basic.forever(function () {
     LCD1IN8.DrawPoint(
     xpos,
