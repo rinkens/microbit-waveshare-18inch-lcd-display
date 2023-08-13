@@ -1,3 +1,9 @@
+Hier wurde die Erweiterung für den alten BBC micro:bit verwendet:
+[https://github.com/waveshare/WSLCD1in8](https://github.com/waveshare/WSLCD1in8)
+
+Weitere Infos unter
+[https://www.waveshare.com/wiki/1.8inch_LCD_for_micro:bit](https://www.waveshare.com/wiki/1.8inch_LCD_for_micro:bit)
+
 
 > Diese Seite bei [https://rinkens.github.io/microbit-waveshare-18inch-lcd-display/](https://rinkens.github.io/microbit-waveshare-18inch-lcd-display/) öffnen
 
